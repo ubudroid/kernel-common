@@ -217,4 +217,3 @@ sound/pci/snd-ens1370.ko
 sound/drivers/pcsp/snd-pcsp.ko
 ubuntu/vbox/vboxguest/vboxguest.ko
 ubuntu/vbox/vboxsf/vboxsf.ko
-zfs/*
